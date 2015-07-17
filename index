@@ -1,0 +1,1054 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link media='screen' type='text/css' rel='stylesheet' href='http://l.bst.126.net/rsc/js/pagelayer/pagelayer.css?0011'/><script type='text/javascript' src='http://l.bst.126.net/rsc/js/pagelayer/pagelayer.js?0011'></script>
+
+<meta name="themename" content="124002"/>
+<meta charset="utf-8"/>
+<title>葉子の设计</title>
+<link rel="shortcut icon" href="http://imgsize.ph.126.net/?imgurl=http://img2.ph.126.net/nc5fqrD1PD43XFfhGkn4rw==/6608664116771350025.jpg_16x16x0x90.jpg">
+<link rel="alternate" type="application/rss+xml" href="http://leafis.me/rss">
+<meta name="Keywords" content="葉子の设计 - 色计乱弹,学习小记,那些画儿,插画,体验研究,生活琐碎,体验,图标,卡通形象,mac,Axure,EDM,交互设计,GUI,挨踢半调子,"/>
+<meta name="Description" content="葉子の设计 - 我们彼此之间都是陌生人，每个人的生活都是别人没有读过的小说&hellip;献上我所有的爱，望共鸣存在你我之间&hellip; 做设计，画图画，有文化，没纪律，有梦想，没德纪.."/>
+
+<meta name="if:文章显示摘要" content="1"/>
+<meta name="if:显示头像" content="1"/>
+<meta name="if:圆形头像" content="1"/>
+<meta name="color:背景" content="#f0f0f0"/>
+<meta name="color:博客标题" content="#111"/>
+
+<link type="text/css" rel="stylesheet" href="http://lofter.ph.126.net/XST3LKtWWUBwpDXyaWeCMw==/6597123642725761473.css"/>
+<style>
+/* 
+ * 自定义主题 
+ */
+/* 每页文章数量 */
+body{background-color:#ebeeef;}
+.m-cprt,.m-cprt a,.m-hdimg .ttl a{color:#000000;}
+.m-hdimg img{border-color:#000000;}
+/* 显示头像 */
+
+.hdimg img{-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;}
+
+</style>
+<!--[if gte IE 8]>
+<style>
+/* 以下代码只对有环绕需求的内容使用。副作用：导致ul和ol的每一个li只有一行 */
+.m-post-leftimg .text ul,
+.m-post-leftimg .text ol,
+.m-detail-leftimg .text ul,
+.m-detail-leftimg .text ol{padding-left:0;}
+.m-post-leftimg .text ul li,
+.m-detail-leftimg .text ul li{list-style:disc inside none;}
+.m-post-leftimg .text ol li,
+.m-detail-leftimg .text ol li{list-style:decimal inside none;}
+.m-post-leftimg .text ul li p,
+.m-post-leftimg .text ol li p,
+.m-detail-leftimg .text ul li p,
+.m-detail-leftimg .text ol li p{vertical-align:bottom;*vertical-align:baseline;display:-moz-inline-box;display:inline-block;*display:inline;zoom:1;margin:0;}
+.m-post-leftimg .text ul li,
+.m-post-leftimg .text ol li,
+.m-detail-leftimg .text ul li,
+.m-detail-leftimg .text ol li{overflow:hidden;height:27px;line-height:27px;padding-left:2px;}
+.m-post-leftimg .text ul li p,
+.m-post-leftimg .text ol li p,
+.m-detail-leftimg .text ul li p,
+.m-detail-leftimg .text ol li p{overflow:hidden;width:90%;white-space:nowrap;text-overflow:ellipsis;-o-text-overflow:ellipsis;word-break:keep-all;}
+</style>
+<![endif]-->
+</head>
+<iframe id="control_frame" allowtransparency="true" scrolling="no" frameborder="0" style="position:fixed;_position:absolute;clear:both; width: 425px; height: 32px; z-index:1337; top:0; right:15px;zoom:1; border:0px; background-color:transparent; overflow:hidden;" src="http://www.lofter.com/control?blogId=1492305" ></iframe>
+<iframe style="display:none" src="http://l.bst.126.net/rsc/htm/music.html" ></iframe>
+<body class="p-homepage">
+<div class="g-doc box">	
+	<div class="g-sd">
+		<div class="g-sdc box">
+			<div class="m-hdimg">
+				<!-- 显示头像时，才有 -->
+				
+				<a class="hdimg img" href="/">
+					<img src="http://imgsize.ph.126.net/?imgurl=http://img2.ph.126.net/nc5fqrD1PD43XFfhGkn4rw==/6608664116771350025.jpg_110x110x0x90.jpg" width="100" height="100" />
+				</a>
+				
+				<h1 class="ttl"><a href="/">葉子の设计</a></h1>
+			</div>
+			<ul class="m-nav m-nav-1 box">
+				
+				<li class="home">
+					<div class="u-navcrt"><span class="txt">首页</span><span class="arr">&nbsp;</span></div>
+				</li>
+				
+				
+				
+				
+				
+				<li class="lnkcstm">
+					<div class="cntt"><a href="http://leafis.me/tag/%E5%AD%A6%E4%B9%A0%E5%B0%8F%E8%AE%B0" class="customlink" >学习小记</a></div>
+					<div class="cntb"><a href="http://leafis.me/tag/%E5%AD%A6%E4%B9%A0%E5%B0%8F%E8%AE%B0" class="customlink" >学习小记</a></div>
+				</li>
+				
+				<li class="lnkcstm">
+					<div class="cntt"><a href="http://leafis.me/tag/%E7%94%9F%E6%B4%BB%E7%90%90%E7%A2%8E" class="customlink" >生活琐碎</a></div>
+					<div class="cntb"><a href="http://leafis.me/tag/%E7%94%9F%E6%B4%BB%E7%90%90%E7%A2%8E" class="customlink" >生活琐碎</a></div>
+				</li>
+				
+				<li class="lnkcstm">
+					<div class="cntt"><a href="http://leafis.me/tag/%E8%89%B2%E8%AE%A1%E4%B9%B1%E5%BC%B9" class="customlink" >色计乱弹</a></div>
+					<div class="cntb"><a href="http://leafis.me/tag/%E8%89%B2%E8%AE%A1%E4%B9%B1%E5%BC%B9" class="customlink" >色计乱弹</a></div>
+				</li>
+				
+				<li class="lnkcstm">
+					<div class="cntt"><a href="http://leafis.me/tag/%E9%82%A3%E4%BA%9B%E7%94%BB%E5%84%BF" class="customlink" >那些画儿</a></div>
+					<div class="cntb"><a href="http://leafis.me/tag/%E9%82%A3%E4%BA%9B%E7%94%BB%E5%84%BF" class="customlink" >那些画儿</a></div>
+				</li>
+				
+				
+				
+				
+				<li>
+					<div class="cntt"><a href="http://www.lofter.com/message/joyanneshao" rel="nofollow">私信</a></div>
+					<div class="cntb"><a href="http://www.lofter.com/message/joyanneshao" rel="nofollow">私信</a></div>
+				</li>
+				
+				
+				<li>
+					<div class="cntt"><a href="http://www.lofter.com/ask/joyanneshao/new" rel="nofollow">提问</a></div>
+					<div class="cntb"><a href="http://www.lofter.com/ask/joyanneshao/new" rel="nofollow">提问</a></div>
+				</li>
+				
+				
+				<li>
+					<div class="cntt"><a href="http://leafis.me/view">归档</a></div>
+					<div class="cntb"><a href="http://leafis.me/view">归档</a></div>
+				</li>
+				<li>
+					<div class="cntt"><a href="http://leafis.me/rss">RSS</a></div>
+					<div class="cntb"><a href="http://leafis.me/rss">RSS</a></div>
+				</li>
+			</ul>
+			<!-- “个人信息” -->
+			
+			<p class="m-about">我们彼此之间都是陌生人，每个人的生活都是别人没有读过的小说&hellip;献上我所有的爱，望共鸣存在你我之间&hellip;
+<br/>做设计，画图画，有文化，没纪律，有梦想，没德纪..</p>
+			
+			<!-- Search -->
+			<div class="m-sch">
+				<form id="j-formsch" class="form" method="get" action="/search">
+					<input type="text" name="q" class="txt" value="搜索" onfocus="if(this.value=='搜索'){this.value='';}" onblur="if(this.value==''){this.value='搜索';}"/>
+				</form>
+			</div>
+		</div>
+	</div>
+					
+	<div class="g-mn">
+		<div class="g-mnc box">	
+			
+			<div class="m-postlst box">
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_455f314">Lean ux</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_455f314"><img src="http://imglf2.ph.126.net/a8hhKB98PrXw4s4ro3Ting==/31806672386179586.png" /></a>
+								
+								
+								<div class="txtcont">
+									<p>精益用户体验是将我们真正自然的工作快速进行实践，减少强调成果而更加重视实际过程经验。</p> 
+<p>传统的文档将被丢弃，或者至少剔除原本缺少的部分，只提供执行时所需的最低数量的必要信息。相比较冗长而细致的设计周期，我们更推崇简短、迭代、低保真的设计周期，并且可以更早、更频繁地接收来自执行团队所有成员的反馈。整个团队的相互合作是产品取得成功的关键。</p> 
+<p>整个过程从轻量级的概念开始。它可以在一块白板上、一张纸巾或者是快速线框图上生成。它的目的是将创意或者流程的核心概念快速展现在你的团队面前。</p> 
+<p>团队开始提供他们在这个设计方向以及可行性上的见解与观察。也许会对原来的想法有所更改，也许将原本的概念完全推翻而提出...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_455f314">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_40dccdd">高效的信息检索术</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_40dccdd"><img src="http://imglf0.ph.126.net/h4S9nwp-ZkAZk6Q8lgnZQw==/658369970543922540.jpeg" /></a>
+								
+								
+								<div class="txtcont">
+									<p>一般我都喜欢通过搜索引擎寻找我想要的信息。那么就要事先了解搜索引擎可以做的高级搜索有哪些。虽然不得不承认百度这货是不如google，但是他还是存在高级的语法搜索。<br />joyanneshao常用的高级搜索：site，filetype，inurl<br /><br /></p> 
+<p>1.1固定网页固定内容范围的搜索<br /></p> 
+<p><br /></p>
+<p>&nbsp;图2.site搜索技巧</p> 
+<p><br /></p>
+<p>&nbsp;如果你经常喜欢上某一个固定的网站或者固定的频道，那么利用site去搜索就是很好的办法，如图2所示。&nbsp;<br />&nbsp;个人很喜欢知乎专栏，但是现在知乎专栏是没有一个频道首页的，只能靠在知乎网站上查找热门话题或者有专栏推荐的时候才能进入相应的专栏，对于想看专栏里...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_40dccdd">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_407a6f1">客户端浮层与滚动条交互模式研究</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_407a6f1"><img src="http://imglf1.ph.126.net/1gLFsQfnNJmS486IwYQnzA==/3359122372165490998.png" /></a>
+								
+								
+								<div class="txtcont">
+									<p>前段时间遇到的问题，设计可视面积固定的客户端产品，经常会纠结一些很细微的点，下面就是其中一个。</p> 
+<p>当界面上任务出现异常，并以顶部浮条的形式出现时，滚动条应该在浮条下面(图中A方案)还是应该覆盖在浮条上（图中B方案）。</p> 
+<p><br />来看下AB方案从视觉、美观度、可控制以及可实现四个方面的分析。</p> 
+<p>来看下A方案：</p> 
+<p><br />视觉感知：滚动时浮条不会消失<br />美观度：清晰，简洁<br />可控制：滚动范围在浮层出现后变小<br />可实现：控制的滚动内容未变，技术实现方法与未出现浮条前保持一致<br /></p> 
+<p>再来看下B方案：</p> 
+<p><br />视觉感知：滚动时会随着页面滚动tips消失<br />美观度：与滚动条叠加，不够简洁<br />可控制：滚动范围在浮层出现后不变<br />可实现：实现复杂度变高，客户...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_407a6f1">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_2d386da">对产品任务角色和流程的思考</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_2d386da"><img src="http://imglf2.ph.126.net/8E4HfxbRTA4IowEtSJamXw==/2806868467776216392.png" /></a>
+								
+								
+								<div class="txtcont">
+									<p>【开篇】</p> 
+<p>这是一篇两年前对产品思路的思考文章，挺陈旧，最近从笔记中翻出来看，觉得这两年思考的东西真的太少了，有时候多想想未来的可行性是一件愉快的事情，可以看到未来还能做的还有很多，也能清楚的指导自己应该往哪里去努力。</p> 
+<p>【思考过程】</p> 
+<p>这是对安卓手机助手PC客户端产品的一些个人思考。对于像豌豆荚、应用宝PC版这类客户端内嵌网站目标，资源页面不管怎么改变，最终目标就是希望用户“成功安装app/下载资源”。</p> 
+<p>这里描述的更多是思考的维度和方法，并且这种方法能帮助我们找到阻碍目标的关键点。<br />我们要确定资源的信息架构，确定以下几个问题很重要：<br />1）我们的用户有哪些？<br />2）他们来我们的网站做什么？<br />3）公司战...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_2d386da">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c58a5">用Axure的这些年&mdash;&mdash;常用交互效果教程（三）</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c58a5"><img src="http://pic.yupoo.com/myleaf/DNUjj7Oc/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />【开篇题记】<br />这里要小小的抱歉下，春节的任务拖到了现在，这几个月就一直在治疗这种拖延症——在过去一年愈演愈烈的写文章拖延症，今天上了公众账号，收到了关注者“蓝海”的一条消息：“葉子姐，还有更新吗？”，瞬间觉得愧疚难当，铁了心今天要把这文章写完了，其实春节的时候草稿早就打好了，只是一直没有配图，一直拖到现在。<br /><br />【回顾上文】<br />春节最后一篇我们讲了稍微复杂的一个菜单case：<a target="_blank" rel="nofollow" href="http://leafis.me/2014/02/the-axure-tutorials-of-collapsiblemenu/">横向可伸缩菜单</a>，里面用到了动态面板的位移、动画事件，小伙伴们春节有回家尝试这个案例么，不知道学会了没，欢迎伙伴们积极提问，我会一一解答，或者你可以加入我们的交流群（344048776），我会第一时间回复各位遇到的问题。<br />【本节要点】<br />这一...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c58a5">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c58a3">阿里巴巴海外B2C业务招聘数据挖掘/数据开发/算法</a></h2>
+								<!-- 有缩略图时 -->
+								
+								<div class="txtcont">
+									<p><strong>首先声明：一般葉子博客不发这种东西，这次是帮老公找人才。<br /><br />简历发送：14346678@qq.com<br /></strong><br />海外B2C业务是阿里巴巴集团未来几年的战略重点之一。随着全球信息一体化、互联网基础设施和智能手机终端的快速发展，全球买家尤其是海外买家的购物需求得到了进一步的释放。海外B2C业务通过打造一站式的导购、交易、支付、物流服务平台，充分发挥各个国家和地区商品之间的差异化优势，让买家以最低的成本、最快的物流、最安全的支付购买到需要的商品，跨境购物不再遥不可及！<br />海外B2C数据应用部对口服务于海外B2C业务线，数据应用部负责采集、加工和整合各种站内外商品、交易、搜索、买卖家等数据，通过数据产品和应用系统的研发，...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c58a3">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c58a2">用Axure的这些年&mdash;&mdash;常用交互效果教程（二）</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c58a2"><img src="http://pic.yupoo.com/myleaf/DySnU75v/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />【回顾上文】<br />上一篇我们讲了简单添加一个case，两个命令制作进度条，不知道各位小伙们有没有去尝试哈，感谢ginatian、baggiowei、diffoyang、yancyshen等同事给的建议。<br /><br />【经验浅谈】<br />在开始今天的教程之前，说点个人制作demo的小小经验，其实大A本身具备的元件中，组合制作可以满足很多交互效果，不过要善加利用。那么善加利用原件之前的关键因素在于制作者本身。为什么这么说，因为制作一个交互效果不难，但是要学会在不同的交互中运用学会的技巧是很多人难于攻克的点。制作原型是一件有灵魂的事情，他不单单只是完成一个效果，还要学会分析如何制作。<br />举上回进度条的例子，在我们开始制作进度条之前...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c58a2">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c58a1">用Axure的这些年&mdash;&mdash;常用交互效果教程（一）</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c58a1"><img src="http://pic.yupoo.com/myleaf/DtYIKibq/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />【初次相识】<br /><br />记得第一次知道Axure在09年，奔着将来要做交互设计的目标，于是在网络搜寻和这个词有关的一切，无意中接触到了这个软件，虽然知道了很多年，一直都没用上他哈。<br /><br />真正开始做交互是去年，感谢团队给我这个机会，虽然不到一年时间，不过段时间跟Axure（以下叫他大A）还是很亲密，哪怕现在市面上有很多这类软件：prototyper pro 、iplotz、omnigraffle、Balsamiq Mockups...我还是觉得大A在demo上的综合能力更优。我一直在用6.5，没有升级7.0，因为不喜欢7.0的logo，不要砸我，我是个外貌派^_^...<br /><br />【原型要求】<br /><br />随着团队的日益壮大，对于产品原型...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c58a1">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post m-post-img   ">
+					<div class="postinner">
+						
+						<div class="ct">
+							<div class="ctc box">
+								<div class="pic">	
+									<a class="img" href="http://leafis.me/post/16c551_c64f61">
+										<img src="http://imglf1.ph.126.net/O4PPajedvoPkWnStrC93Ag==/3146608764748770136.jpg" />
+									</a>
+								</div>
+								
+								<div class="text">
+									<p><strong>我爱设计，我在LOFTER</strong></p> 
+<ul> 
+ <li><p>最爱博客：<a target="_blank" loftermentionblogid="1462970" href="http://www.lofter.com/mentionredirect.do?blogId=1462970">@Cup noodles</a>、<a target="_blank" loftermentionblogid="869362" href="http://www.lofter.com/mentionredirect.do?blogId=869362">@z-ying</a>、<a target="_blank" loftermentionblogid="250170" href="http://www.lofter.com/mentionredirect.do?blogId=250170">@SINS72</a></p></li> 
+</ul> 
+<p><a target="_blank" href="http://www.lofter.com/mylofter/joyanneshao/23673">查看详情</a></p>
+									
+								</div>
+								
+							</div>
+						</div>
+						
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_c64f61">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c58a0">金秋青海湖之旅</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c58a0"><img src="http://pic.yupoo.com/myleaf/DtZ6jQR0/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />9月金秋，来到了青海湖景区，不愧是美丽的青色的海，一个富有神奇色彩的游览地。<br /><br />青海湖路边别有味道的建筑<br /><br />青海湖一角<br /><br />一行人坐船去了<br /><br /></p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c58a0">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c589e">体验研究：是否在新窗口打开链接</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c589e"><img src="http://pic.yupoo.com/myleaf/D1RvVaZo/XEJxI.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />【写在前面】<br /><br />前段时间公司产品发布了新版本，腾讯手机管家(PC版)2.0，欢迎使用安卓的亲们体验我们的软件。于是继版本发布后，开始了一连串的跟进工作。这几天正好在忙这些新版发布的跟进工作，其中新版官网就在这几天要上线了，今天评审需求的时候定义了下官网中部分链接要求在新窗口中打开，说到这一点，顺便给产品的童鞋都简单说明了下这么做的初衷。<br /><br />【问题背景】<br /><br />有些人喜欢新窗口打开页面，甚至喜欢到忽略它本身的打开方式，默认选择“右键——在新窗口（标签页）中打开链接”。而另外一些人相反，就不喜欢太多的窗口，直接在当前页打开，方便。<br /><br />【打开方式PK】<br /><br />新窗口打开：<br /><br />优点：1）同时浏览多个页面，很方便，而且如果浏览同类页面...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c589e">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post m-post-img   ">
+					<div class="postinner">
+						
+						<div class="ct">
+							<div class="ctc box">
+								<div class="pic">	
+									<a class="img" href="http://leafis.me/post/16c551_571dc3">
+										<img src="http://imglf2.ph.126.net/wJGea7t8uZqKQ-qhqsVx6g==/6598248443122528700.jpg" />
+									</a>
+								</div>
+								
+							</div>
+						</div>
+						
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_571dc3">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c589c">设计必备之草图</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c589c"><img src="http://pic.yupoo.com/myleaf/CL8CMKqk/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />【写在前面】<br /><br />回归工作岗位之后，一直致力于交互的工作，虽然对于互联网行业不算陌生，好像对于UED以外的其他岗位性质工作都挺熟悉，实际投身到专业的岗位上，发现自己所了解的实在是太少。在其位真的工作起来，问题就出现了。<br /><br />【谈及交互】<br /><br />以前是做视觉设计，曾经是f2e领域里面鲜有的女性同志，但是这两个岗位都是接受成品的需求，很少有机会接触需求成形的过程。视觉专注于色彩、风格和情感表达，前端则专注于实现、页面性能、各种蛋疼的兼容...&nbsp;虽然我们一起关注用户体验，这个广义的不能再广义的高级词汇，说到专业上，还是各有不同，做起事情来自然也有差别。交互，现在从事的职业。那么先了解下交互这个角色，首先听我于...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c589c">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c5899">客户端切图方法</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c5899"><img src="http://pic.yupoo.com/myleaf/CHVVsARK/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br /><strong>写在前面：</strong><br /><br />以前一直在切网页上的图片，好久不做前端，也很久没有做切图的工作了，做网页切图那是熟门熟路的活儿，可以根据之后的页面的重构计划和页面图片分布情况对图片做css sprite的技巧处理和合理选择图片格式。<br />对于客户端的切图（以下简称PC端），入门级。下面是同事分享的一些PC端的切图方法。欢迎同样在PC端工作的UI同学们多多分享图片输出的方法。<br /><br /><strong>1、二等分</strong><br /><br />这个方法多用于不对称的图片输出。如下图这种按钮：<br /><br />左右不对称，但是除了圆角和直角的部分是可以拉伸的。<br /><br />类似的应用按钮：<br /><br />输出的最终图片效果如下:<br /><br />￼依次的状态分别是default、hover、click、active、定位。<br />￼确切的说，二等分法应该称...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c5899">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c589b">电商网站新老访客解决方案及HiveSQL小优化&mdash;&mdash;jiangxh31&middot;混</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c589b"><img src="http://pic.yupoo.com/jiangxh31_v/CGA6nPIy/13yKG.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />电子商务网站的会员分析和会员营销里面有个非常重要的指标就是新老访客。<br />所谓的新访客就是在一段定义的时间内，这个用户/cookie，第一次访问这个网站，则为新访客。<br /><br />老访客就是在一段定义的时间内，这个用户/cookie，大于一次，访问这个网站，则为老访客。<br /><br />老访客如果清理了浏览器cookie，重新访问这个站点，则变为新访客。<br /><br />有很多的解决方案是在数据收集的阶段就完成这个新老访客的判断，比如beacon日志里采取一定的技术方案，为cookie打上新老访客的标识。<br />也有一部分，没在数据收集阶段完成这个标识，那么必须在数据开发和数据仓库中来完成，本文介绍的就是后者。<br /><br />本文以Hadoop和Hive为数据计算平台。<br />定...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c589b">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c589a">数据服务和数据产品化&mdash;&mdash;jiangxh31&middot;混</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c589a"><img src="http://pic.yupoo.com/jiangxh31_v/CGzVPtQS/zY5kU.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />在数据领域混了快4年了，突然有点小感想。<br />数据本身就是服务，可以转换生产力，可以商业化成产品。既然是服务，那就得服务用户，服务用户就必须抓住用户需求。<br /><br />作为一个数据工程师或者数据分析人员，必须得要有业务敏感度，用户的需求是点线模式，传递到数据工程师或者数据分析人员，必须达到由面到系统的分析、分解、最后建模融合，当然要达到这个目的，数据人员必须主动出击去了解用户的需求，而不是被动的等待。<br /><br />数据开发人员同样也要有业务敏感和数据敏感，只有对业务能融合贯通，加上强悍的技术手段，零散的需求都可以胸有成足的以一个系统化、程式化、灵活的供用户使用，业务需求的融合加技术实现而最终可以沉淀为数据产品<br /></p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c589a">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c5898">团队童鞋们的真人卡通像设计</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c5898"><img src="http://imglf1.ph.126.net/NX0W4FkGN7xoZfrdnxq27w==/1342635639010271224.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />团队的成员头像&middot;&middot;&middot;服装和动作都借鉴了以前团队的形象服饰，按上了各位可爱童鞋们的头丫！<br /><br />准备等我休假了再做一套新的服饰，在打包成一系列。完善下整个视觉，展示下team的风采。<br /><br /></p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c5898">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c5897">icon图标一套</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c5897"><img src="http://pic.yupoo.com/myleaf/C3tdMC6z/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />半年没更新博客了，罪过+惭愧～～～～～滴答答滴！其实后台堆着很多半成品，就是没完整，就不发了。给自己找个借口，哪天觉得自己进步一点了再发吧。<br /><br />这半年都忙着很多事情，博客已经是杂草丛生，无法清理了。结了婚，于是柴米油盐酱醋茶的事情频繁不断，人生就这样去了大半。嗨～～悲叹<br /><br />要说不甘心，的确很多很多，没玩够、还有好多目标没实现，好多地方没去，可惜在不甘心也没用了，今年就这样了，明年再来&middot;&middot;&middot;&middot;&middot;哈<br /><br />献上一套图标，拯救下这片荒凉的土地（禁止任何用途，仅供交流）。<br /><br /></p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c5897">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c5896">苹果macos系统下显示隐藏文件</a></h2>
+								<!-- 有缩略图时 -->
+								
+								<div class="txtcont">
+									<p>Mac OS X中有很多系统隐藏的信息文件, 一般在Finder中都是看不到,也修改不了的.<br /> 但通过在&quot;终端&quot;中输入命令, 就可以在Finder中显示出来:<br />defaults write com.apple.finder AppleShowAllFiles TRUE<br />killall Finder<br /> 其实就是修改系统的一个设置, 再重启Finder<br /> 同样的道理可以让Finder不显示隐藏文件:<br />defaults write com.apple.finder AppleShowAllFiles FALSE<br />killall Finder <br /> 如果知道文件或文件夹的路径, 有一种更方便的找开方...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c5896">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c5894">图标练习，我的第一次</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c5894"><img src="http://pic.yupoo.com/myleaf/BEWtcvUU/1Qf7L.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />一直都是个web的<a target="_blank" rel="nofollow" href="http://leafis.me">设计</a>湿儿，从来没有画过这样子的图标，第一次尝试，作为自己设计人生的记录帖，发在偶滴博客里面，欢迎有鼓励我的，批评我的，指点我的人儿们路过留下您宝贵的建议吧，阿门~~~<br /><br /><strong>绘制软件：</strong>photoshop cs5<br /><br /><strong>绘制时长：</strong>断断续续的大概有一天的样子<br /><br /><strong>绘制技巧：</strong>多用智能图层<br /><br /><strong>难点：</strong>图标的表现方式以及如何让多个图标表现起来有整体感<br /><br /><strong>总结：</strong>这是个细活儿，没了耐心真不行~~~~<br /><br /></p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c5894">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c5893">经验浅谈：设计需求管理</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c5893"><img src="http://pic.yupoo.com/myleaf/BCxDJkA4/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br /><strong>写在前面：</strong><br />作为一个设计师，每天有很多项目的需求并行，一人面对的需求方也很多，但是<a target="_blank" rel="nofollow" href="http://leafis.me">设计</a>工作不是做完需求就结束了，还要经过复杂的审核、修改和确认，如果你不是一个有把控力的设计师，后面这个环节反反复复，连自己都不知道何时才能做到需求方满意的结果，而这个过程，设计师会很焦躁，同时需求方很不满意，因为你总是做不到他们需要的结果，直到双方都累得不想继续了...那么我们如何去管理我们的需求，确保需求的高质，辛苦不被抱怨？<br /><br />设计专业有一个不为人知的方面，即专业的组织筹划能力，知道如何计划、如何设置期限、何时梦想以及何时付诸于实施。一个设计任务接到手里，在考虑设计细节之前，就知道要多少时间做这任务，并在最后期限之...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c5893">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c5890">成年往事那些画</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c5890"><img src="http://pic.yupoo.com/myleaf/BC5beRxy/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />下班休息之余翻开了成年的一些画，用手机拍的。很旧了，但是是我最珍惜的一些东西，纸质那部分不敢去动，因为我想找个时间把他们装裱起来，动的多了，纸容易破，太久太久的东西了。<br /><br />早前我一直觉得我不应该丢弃画画的天分，不过最终我还是丢弃了，丢弃了去中美学习艺术的决定，选择了理工科...但是跟<a target="_blank" rel="nofollow" href="http://leafis.me/">设计</a>擦边<br />而正因为不舍得，所以这些年都在画画，虽然画工已经慢慢在退步，画不出当年读大学前的功底了，不论是版画、素描、还是水彩，我也终于相信为什么日本前期的出名漫画家因为数位板的出世而从此一蹶不振，手上功夫一年年在退步～～～<br /><br />纪念下我的成年往事，每张画的背后都是一段生活。至今都让我很难忘的，武义一中的画室、武义熟溪边上的画社...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c5890">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c588e">活动收获：11.19号pmcaff走近阿里大型产品交流</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c588e"><img src="http://pic.yupoo.com/myleaf/BAHomqna/SXXku.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />晚来的一篇总结。上个月中去参加pmcaff在阿里一站的交流会议，收获颇多，但是需要慢慢消化。讲的东西比较专业，我是个认真学习的孩子，废话不多说了，分享当天大牛们的主题：<br /><br />分享内容纲要：<br /><br /><strong>1）张勤，阿里巴巴副总裁，《互联网时代的竞争格局》</strong><br /><br />计算机行业的发展简述<br /><br />互联网行业公司比传统计算机硬件，软件行业公司成长的速度更快，更惊人<br /><br />建立产业生态系统的想法即互联网企业平台化战略的思路<br /><br />苹果，亚马逊，Facebook等平台公司的运作模式<br /><br />阿里集团的平台价值观，具体战略<br /><br /><strong>2）王磊，阿里巴巴产品部资深总监，《商业产品如何赚钱》</strong><br /><br />先考虑几个问题？凭什么收钱？怎么收钱？B2B有哪些商业产品？<br /><br />做产品前先忘掉产品！问自己，用户是谁？...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c588e">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c588f">笔记：创新与添加新功能与产品定位</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c588f"><img src="http://pic.yupoo.com/myleaf/BzGPF9eP/MFiRc.png" /></a>
+								
+								
+								<div class="txtcont">
+									<p>读书笔记开篇：苹果公司的电子产品，最大的特点就是它的易用性(usability)----简单，美观，容易上手。<br /><br />如果你不断为产品添加新功能，在变得强大的同时，它还会变得越来越复杂，增加了用户的使用难度;如果你大力简化产品，在功能上比较单一，那么怎样与竞争对手抗衡呢?<br /><br />对于新产品，这个问题尤其重要。因为新产品通常很难打开市场，最容易想到的解决办法就是为它不断增加功能，直到引起市场注意为止。但是，这样做是否正确呢?&nbsp;<br /><br />读书笔记：<br /><br /></p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c588f">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c588d">什么是着陆页（Landing Page）</a></h2>
+								<!-- 有缩略图时 -->
+								
+								<div class="txtcont">
+									<p>在互联网营销中，着陆页（Landing Page，有时被称为首要捕获用户页）就是当潜在用户点击广告或者搜索引擎搜索结果页后显示给用户的网页。一般这个页面会显示和所点击广告或搜索结果链接相关的扩展内容，而且这个页面应该是针对某个关键字（或短语）做过搜索引擎优化的。<br /><br />在竞价排名广告（PPC）中，着陆页可以通过不同的定制来衡量不同广告的效果。通过在网址中添加参数，市场营销员可以通过统计相关参数的点击率来衡量相关广告的效果。<br /><br />下面我们就从着陆页的用途、类型和与SEO的关系来介绍它。<br /><br />着陆页的用途<br /><br />让用户访问网站（并点击到网站的其他页面）<br /><br />让用户购买&nbsp;产品或服务<br /><br />让用户允许你跟进联系（通过电邮、电话或其他...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c588d">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c588c">淘宝图想体验区设计思考</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c588c"><img src="http://pic.yupoo.com/myleaf/BvSLWfq8/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />这是支持图想团队的同学们的一次设计，也正是这次机会让我开始对设计做了一次思考。<br /><br />图想目前的搜索流程必须经过的三步：传图(贴网络图片地址)——框选图片——类目选择，最终搜索，如下图：<br /><br />也许你会问，难道就不能直接上传一张图片就搜索么。当然如果我们的搜索能够满足用户直接上传图片后就能直接给出他希望的结果，那自然是非常美好的事情，只可惜现在还是起步阶段，图片搜索的市场还是预热期，技术门槛也是，所以我们目前支持不了用户直接跳过框图步骤去搜索。<br /><br />图想面临一个问题，在搜索过程中，总是有很多用户不知道要先把商品框出来再做类目选择。往往都直接选择了类目之后就直接去搜索了。于是希望在仅有的一块商品展示（即体验区），能够...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c588c">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c5888">儿时记忆&mdash;《挨踢半调子》(4)</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c5888"><img src="http://pic.yupoo.com/myleaf/BiUNxW5X/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br /><br />儿时记忆总是很美好。天真，单纯，不知道如何去达成美好的梦想，但是那个梦总是每天都会做，乐此不疲。儿时的事情，总是记忆犹新，每每回忆起，心里总是暖融融的，仿佛有一泓泉水涤尽了人世间无尽的烦恼和杂念，恢复了童孩时代的简单与纯净。如今长大了，梦变得现实了，每天也会做这个梦，不同的是这个梦知道怎么去达成，岁月磨练着追求梦的人儿，使之成长成熟，在甜美苦涩中储存记忆。但是我们依然为儿时的各种记忆感到满足和幸福，每每聊起小时候，好多好多有趣美好的事情要倾述&middot;&middot;&middot;<br /><br />儿时的经典太多了，玩的有发条青蛙、爆药枪～～～<br /><br />吃的有酸梅粉，气泡糖、跳跳糖、果丹皮～～～<br /><br />最喜欢的动画片有三...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c5888">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c588b">意外的喜悦：原来有那些获奖</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c588b"><img src="http://pic.yupoo.com/myleaf/Brq488D5/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br /><br />说来也巧，昨天搜索某个人在网络上的活动足迹，刚跟崇厚聊着我搜索到得成果时，崇厚发来他搜索我这个名字的搜索结果。于是让我自己也开始蠢蠢欲动，想看看自己再网络上到底有多少足迹存在，不搜不知道，一搜才发现关于我的搜索结果真是琳琅满目，曾经在网上记录过的事情都在，主动的或是被动的。更意外的是原来自己曾经还获得过奖项，记得大学的时候最不喜欢一窝哄去参加什么工业设计比赛，什么网络上的设计比赛，隐约记得参加过两三次，原来都有奖品的说。<br /><br />第一个搜索到得奖的比赛是“中国年，奥运年”明信片设计大赛：<br /><br />记得那是08年大二南方大雪灾时候进行的一场比赛，我困在家里好几天都在上网，有天晚上睡得不太好半夜两点爬起来做的一个明信...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c588b">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c5889">icon练习一枚（shelf）</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c5889"><img src="http://pic.yupoo.com/myleaf/Bp9U9XwJ/1kiKg.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />我就是个新手，随便做做的icon，illustrator绘制，纯粹为了拯救下博客长草的危机！国庆有好长一段时间不会上网，不会在杭州，去香港玩一回，我是土人，没去过，去开开眼界~~<br /><br /></p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c5889">+</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="m-post  m-post-txt  ">
+					<div class="postinner">
+						
+						
+						<div class="ct">
+							<div class="ctc box">
+								<h2 class="ttl"><a href="http://leafis.me/post/16c551_19c5887">浅谈EDM设计</a></h2>
+								<!-- 有缩略图时 -->
+								
+								
+								<a class="img thumbnail" href="http://leafis.me/post/16c551_19c5887"><img src="http://pic.yupoo.com/myleaf/BgFW7bFo/medish.jpg" /></a>
+								
+								
+								<div class="txtcont">
+									<p><br />进入阿里巴巴一直从事运营的设计，免不了接触的就是活动专题、edm营销、DM营销、SMS营销等等，这里要重点讲一讲EDM营销，我是个营销的外行，此文仅从自己的经验来阐述一些问题。<br /><br />EDM营销（Email Direct Marketing）也即：Email营销、电子邮件营销。首先问几个问题，我们为什么要去做EDM的营销呢？EDM在营销充当什么样的角色？这些能否影响到EDM的设计呢？我们应该从什么样的角度去思考EDM的设计？<br /><br />一、edm的营销目的<br /><br />过去一年接触的EDM营销，主要分两类：品牌宣传和事件营销，其他少量的售后服务和售前服务，还有互动营销。<br /><br />在阿里巴巴深度认证团队，邮件营销更多具有的是广告价值，当然...</p>
+									
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						<div class="lnks box">
+							<a class="more" href="http://leafis.me/post/16c551_19c5887">+</a>
+						</div>
+					</div>
+				</div>
+				
+			</div>	
+			<!-- Pager -->
+			
+			<ul class="m-nav m-nav-2 box">
+				
+				
+				<li>
+					<div class="cntt"><a href="?page=2&t=1312469105000">下一页</a></div>
+					<div class="cntb"><a href="?page=2&t=1312469105000">下一页</a></div>
+				</li>
+				
+			</ul>
+			
+			
+			
+			
+			
+			<!-- 尾部 -->
+			<p class="m-cprt">&copy;&nbsp;<a href="http://leafis.me/">葉子の设计</a>&nbsp;|&nbsp;Powered by <a href="http://www.lofter.com">LOFTER</a></p> 
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="http://l.bst.126.net/rsc/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="http://lofter.ph.126.net/IADsues4C8rgaNX4vZ15UQ==/5629523723468935469.js"></script>
+
+
+<script>window.Theme = {'ImageProtected':true,'CcType':0,ContextValue:'版权保护'};</script>
+<script src="http://l.bst.126.net/rsc/js/themecommon.js?0020" type="text/javascript"></script>
+<script src="http://analytics.163.com/ntes.js" type="text/javascript"></script><script>_ntes_nacc = 'lofter';try{neteaseTracker();}catch(e){}</script>
+<script>var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-31007899-1'],['_setLocalGifPath', '/UA-31007899-1/__utm.gif'],['_setLocalRemoteServerMode']);_gaq.push(['_setDomainName', 'lofter.com']);_gaq.push(['_trackPageview']);(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = 'http://wr.da.netease.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
+</body>
+</html>
